@@ -1,3 +1,5 @@
+Live Deployed Link --> https://f1-studio-amit-sharma.vercel.app/
+
 # f1studioz-task
 
 This project is a React-based web application designed to fulfill a specific task as outlined in the provided instructions. The application prototype includes multiple desktop screens with various functionalities, such as order configuration, cart management, and user data editing.
@@ -13,7 +15,7 @@ This project is a React-based web application designed to fulfill a specific tas
    npm start
    ```
 
-4. Open your web browser and go to [https://f1-studio-amit-sharma.vercel.app/] to view the application.
+4. Open your web browser and go to [(http://localhost:3000/)] to view the application.
 
 ## Dependencies
 
